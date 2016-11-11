@@ -51,36 +51,36 @@ Perform histogram equalization.
 
 #### Intensity Transformations
 
-#### Negative Image
-#### Log Transformation
+     * Negative Image
+     * Log Transformation
 
 #### Low-pass Filtering (Smooth)
 
-##### Linear
+* Linear
 
-1. Box Filter
-2. Weighted Average Filter
+  * Box Filter
+  * Weighted Average Filter
 
-##### Non-linear
+* Non-linear
 
-1. Median Filter
+  * Median Filter
 
 #### High-pass Filtering (Sharpen)
 
-1. Laplacian Filter
-2. Sobel Filter
+* Laplacian Filter
+* Sobel Filter
 
 #### Denoise
-1. Gaussian or Uniform noise
+* Gaussian or Uniform noise
    * Arithmetic mean filter
    * Geometric mean filter
-2. Salt noise
+* Salt noise
    * Harmonic mean filter
    * Minimum filter
-3. Pepper noise
+* Pepper noise
    * Contraharmonic mean filter
    * Maximum filter
-4. Salt and pepper noise
+* Salt and pepper noise
    * Median filter
 
 ## Meta
