@@ -14,7 +14,7 @@ Or simply double click the jar file.
 English and Chinese language versions are provided.
 
 Load an Image by clicking `open` under the `file` menu.
-![](sreenshots/open_file.png)
+![](screenshots/open_file.png)
 
 ### Geometric Transformation
 
