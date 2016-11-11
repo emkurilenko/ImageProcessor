@@ -51,8 +51,8 @@ Perform histogram equalization.
 
 #### Intensity Transformations
 
-     * Negative Image
-     * Log Transformation
+* Negative Image
+* Log Transformation
 
 #### Low-pass Filtering (Smooth)
 
