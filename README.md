@@ -14,7 +14,7 @@ Or simply double click the jar file.
 English and Chinese language versions are provided.
 
 Load an Image by clicking `open` under the `file` menu.
-![](../sreenshots/open_file.png)
+![](sreenshots/open_file.png)
 
 ### Geometric Transformation
 
@@ -22,13 +22,13 @@ Load an Image by clicking `open` under the `file` menu.
 
 1. Click `scale` under the `Geometric Transformation` menu.
 2. Set the size you want to resize.
-![](../screenshots/scale.png)
+![](screenshots/scale.png)
 
 #### Rotation
 
 1. Click `rotate` under the `Geometric Transformation` menu.
 2. Set the angle to rotate.
-![](../screenshots/rotate.png)
+![](screenshots/rotate.png)
 
 ### Color Transformation
 
@@ -36,16 +36,16 @@ Load an Image by clicking `open` under the `file` menu.
 
 The RGB image will first be converted to grayscale. 
 Drag the bar to change to different gray level resolusions.
-![](../screenshots/gray_level_trans1.png)![](../screenshots/gray_level_trans2.png)
+![](screenshots/gray_level_trans1.png)![](screenshots/gray_level_trans2.png)
 
 #### Histogram
 
 Calculate and show Histogram of the image.
-![](../screenshots/histogram.png)
+![](screenshots/histogram.png)
 
 Perform histogram equalization.
-![](../screenshots/histogram_equalization.png)
-![](../screenshots/equalized_histogram.png)
+![](screenshots/histogram_equalization.png)
+![](screenshots/equalized_histogram.png)
 
 ### Gray Image Operations
 
