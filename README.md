@@ -83,6 +83,12 @@ Perform histogram equalization.
 * Salt and pepper noise
    * Median filter
 
+Image with salt and pepper noise.
+![](screenshots/noise.png)
+
+Denoised image using median filter algorithm.
+![](screenshots/denoise.png)
+
 ## Meta
 
 Zebin Xu - zebinxu7@gmail.com
